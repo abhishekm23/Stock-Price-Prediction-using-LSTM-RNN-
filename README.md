@@ -1,2 +1,3 @@
-# Stock-Price-Prediction-using-LSTM-RNN-
-In this project , I've worked on a time series data using a particular vintage time of ITC stock and then predicted the opening prices of that stock based on previous 100 days data and predicted for the next (future) 30 days using LSTM RNN.
+# Stock-Price Movement-Prediction-using-LSTM & Sentiment based Analysis using VADER
+In this project , I've worked on time series data using a particular vintage time of any stock of your choice by creating a user engaged system and then predicted the opening prices of that stock based on previous 100 days data and predicted the prices i.e movement for the forthcoming week (future) 7 days. 
+Also I used sentiments which was live scrapped from the finviz website which provides sentiments of that particular stock, and based on those sentiments I calculated the compound score for each of the sentiments and then , based on these sentiments my pricing movement was predicted from working on timeseries data as mentioned above.
